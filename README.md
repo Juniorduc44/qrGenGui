@@ -1,0 +1,1 @@
+# qrGenGui.py
