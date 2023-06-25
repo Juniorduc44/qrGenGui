@@ -1,3 +1,5 @@
+#Python 3.10.9
+#qrGenGui v0.1.2
 from tkinter import *
 import pyqrcode
 import PIL.Image, PIL.ImageTk
@@ -15,7 +17,7 @@ customtkinter.set_default_color_theme("green")
 
 #variable for creating the initial window(frame) and title for the app
 app = customtkinter.CTk()
-app.geometry("400x300")
+app.geometry("250x350")
 app.title("Qr Code Generator")
 
 
