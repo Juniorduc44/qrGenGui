@@ -7,5 +7,5 @@ Check out the github to here: https://github.com/TomSchimansky/CustomTkinter
 
 ## To load environment
 - pip install customtkinter PyQRCode Pillow pypng
-# OR
+- OR
 - pip install -r requirements.txt
