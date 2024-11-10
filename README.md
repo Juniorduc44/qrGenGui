@@ -30,3 +30,19 @@ Check out the github to here: https://github.com/TomSchimansky/CustomTkinter
      </picture>
      </p>
  </h3>
+
+ <details>
+<summary>Donations</summary>
+
+ <h3 align="center">BITCOIN</h3>
+ <h3 align="center">bc1q6qsw5j7v6gv9nwdy5aj4axu7k9h52udqfnn5cn</h3>
+     <p align="center">
+     <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="./images/qrDonation_qrGeneratorImage.png">
+         <img src="./images/qrDonation_qrGeneratorImage.png">
+     </picture>
+     </p>
+ </h3>
+
+
+ </details>
