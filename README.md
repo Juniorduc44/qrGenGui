@@ -9,7 +9,7 @@ Check out the github to here: https://github.com/TomSchimansky/CustomTkinter
 - (windows)In terminal or Commandline type "python -m venv venv"
 	- "venv/scripts/activate"
 
-## To load environment
+## To load [environment](./loadPythonEnv.md)
 - pip install customtkinter PyQRCode Pillow pypng
 - OR
 - pip install -r requirements.txt
