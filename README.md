@@ -34,6 +34,7 @@ Check out the github to here: https://github.com/TomSchimansky/CustomTkinter
  <details>
 <summary>Donations</summary>
 
+ ##### QR CODE create by: [Juniorduc44](https://github.com/Juniorduc44/qrGenGui)
  <h3 align="center">BITCOIN</h3>
  <h3 align="center">bc1q6qsw5j7v6gv9nwdy5aj4axu7k9h52udqfnn5cn</h3>
      <p align="center">
