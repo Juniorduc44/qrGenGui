@@ -17,3 +17,16 @@ Check out the github to here: https://github.com/TomSchimansky/CustomTkinter
 ## To start qr Generator
 - (linux) In terminal type "python3 qrGenGui.py"
 - (windows) In terminal or Commandline type "python qrGenGui.py"
+
+</br>
+</br>
+
+
+<h3 align="center">QR Code Generator</h3>
+     <p align="center">
+     <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="./images/qrGeneratorImage.png">
+         <img src="./images/qrGeneratorImage.png">
+     </picture>
+     </p>
+ </h3>
